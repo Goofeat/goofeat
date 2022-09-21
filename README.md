@@ -8,5 +8,7 @@
 
 <p><a href="https://www.instagram.com/azharbayev/"><img alt="Instagram @azharbayev" align="center" src="https://img.shields.io/badge/-Instagram-gray.svg?color=bc2a8d&style=for-the-badge" /></a>&nbsp; My Instagram</p>
 
+<p><a href="https://twitter.com/goofeat"><img alt="Twitter @goofeat" align="center" src="https://img.shields.io/badge/-Twitter-gray.svg?colorA=1da1f2&colorB=1da1f2&style=for-the-badge" /></a>&nbsp; Tweet me</p>
+
 <p><a href="https://github.com/goofeat/"><img alt="GitHub @goofeat" align="center" src="https://img.shields.io/badge/-GitHub-gray.svg?colorA=333&colorB=333&style=for-the-badge" /></a>&nbsp; Example of Recursion</p>
 
